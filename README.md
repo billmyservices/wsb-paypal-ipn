@@ -75,3 +75,9 @@ After setup your server, configure _Paypal IPN_ service.
 
 https://developer.paypal.com/docs/classic/ipn/integration-guide/IPNSetup/#setting-up-ipn-notifications-on-paypal
 
+## Compile
+
+As usual:
+```bash
+$ mvn clean package
+```
